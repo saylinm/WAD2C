@@ -1,0 +1,16 @@
+1.create a folder
+2.go to folder in vs and open terminal 
+3.check if node is install or not npm --version
+4.npm install -g @angular/cli@latest
+5.ng new "project name"
+6.css style sheet enter
+7.will take time to create till the 
+8.go to your project folder
+9.go into src
+10.go into app
+11.app.component.html
+   remove all content inside 
+   write code 
+12.chande direcrory in terminal to cd project name 
+13.run ng serve 
+14.will run copy the path and open it in browser.

@@ -1,0 +1,18 @@
+input{
+    width: 400px;
+    height: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+#btn{
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    border: solid;
+    width: 100px;
+    margin-left: 150px;
+    /* Light to dark gradient */
+   
+
+}
+
